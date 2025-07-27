@@ -1,1 +1,1 @@
-# fronts-card-practics
+# QR code component
